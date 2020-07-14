@@ -9,4 +9,7 @@ public class FirstClass {
         System.out.println("cccccccccccccccccc");
         System.out.println("cccccccccccccccccc");
     }
+    public void test(){
+        int i=10;
+    }
 }
